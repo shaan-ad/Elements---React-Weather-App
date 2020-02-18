@@ -1,3 +1,11 @@
+Elements is a simple Weather App built with React.
+
+![Screenshot 1](https://github.com/shaan-ad/Elements---React-Weather-App/blob/master/images/Screenshot%20(10).png)
+
+![Screenshot 2](https://github.com/shaan-ad/Elements---React-Weather-App/blob/master/images/Screenshot%20(11).png)
+
+![Screenshot 3](https://github.com/shaan-ad/Elements---React-Weather-App/blob/master/images/Screenshot%20(12).png)
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
